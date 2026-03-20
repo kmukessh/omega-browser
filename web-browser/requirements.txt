@@ -1,0 +1,9 @@
+Flask
+requests
+PyQt6
+PyQt6-WebEngine
+beautifulsoup4
+wikipedia
+cachetools
+python-dateutil
+urllib3
